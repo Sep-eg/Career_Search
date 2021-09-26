@@ -20,7 +20,7 @@
 
 데이터셋
 ---
-데이터는 MDIS(마이크로데이터 통합서비스)의 [초중고 사교육비조사](https://mdis.kostat.go.kr/extract/extYearsSurvSearchNew.do?curMenuNo=UI_POR_P9012) 데이터를 사용하였다.
+데이터는 [MDIS(마이크로데이터 통합서비스)](https://mdis.kostat.go.kr/extract/extYearsSurvSearchNew.do?curMenuNo=UI_POR_P9012)의 "초중고 사교육비조사" 데이터를 사용하였다.
 
 해당 데이터는 초등학생부터 고등학생까지 총 75,315명의 사교육비 관련 데이터를 관측치로 가지고 있다.
 
